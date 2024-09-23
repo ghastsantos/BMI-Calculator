@@ -20,7 +20,7 @@ This project was developed using the following technologies:
 
 ## 💻 Project
 
-MyLinks is a repository site for projects and personal links
+This website is a BMI Calculator
 
 - [Access the finished project online](https://ghastsantos.github.io/BMI-Calculator/)
 
